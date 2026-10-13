@@ -6,7 +6,7 @@ To practice these ideas, I wrote a command-line Student Gradebook. The program l
 
 My purpose in writing this software was to practice the core Java building blocks (variables, expressions, conditionals, loops, methods, and classes) while focusing on inheritance with the `extends` and `abstract` keywords.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.youtube.com/watch?v=VYwa1ig4_nw)
 
 # Development Environment
 
